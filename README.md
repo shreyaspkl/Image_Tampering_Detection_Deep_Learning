@@ -4,4 +4,4 @@ Developed a Deep Learning model based on Convolutional Neural Networks (CNN) wit
 
  
 Note- 
-You can save model from jupyter file to create new .h5 file to load the model.
+You can save model from jupyter file to create new .h5 file to load the model. 
